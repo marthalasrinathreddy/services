@@ -1,0 +1,14 @@
+.img {
+  width: 95%;
+}
+
+@media (max-width: 1200px) {
+  .img {
+    width: 95%;
+  }
+}
+@media (max-width: 750px) {
+  .img {
+    width: 95%;
+  }
+}
